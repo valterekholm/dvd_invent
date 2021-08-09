@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `dvd`
+-- Database: `abcde`
 --
 CREATE DATABASE IF NOT EXISTS `abcde` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE `abcde`;
